@@ -57,3 +57,14 @@ form {
   box-shadow: none;
   top: 6px; 
 } 
+footer p {
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+}
+footer p a {
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 800;
+}
